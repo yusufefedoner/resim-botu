@@ -33,4 +33,4 @@ async def mem(ctx):
         
  
     await ctx.send(file=picture)
-bot.run("MTMzMTMxNjUzMjA2Mzc2ODYzNg.Gj9Xka.tcMVSlUVsva_3bqY70DII9c2YMU-ZRxtpSIJ00")
+bot.run("buraya token")
